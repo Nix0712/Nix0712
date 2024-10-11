@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi there! 👋 I'm Nikola
 
-<!--
-**Nix0712/Nix0712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 3rd-year Computer Engineering and Informatics student at the University of Belgrade, School of Electrical Engineering. I’m passionate about exploring different areas of technology, from web development to embedded systems and operating systems. As I continue my studies, I enjoy experimenting with new projects and expanding my skill set.
 
-Here are some ideas to get you started:
+🔭 Current Projects & Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m still exploring and learning, and here are a few of my key projects so far:
+
+    🌦️ WeatherApp: A web application built using React, which fetches real-time weather data via APIs.
+    🔧 RISC-V xv6-based OS: A minimal operating system for RISC-V architecture, where I explored systems programming and hardware-software interactions.
+    ❤️ Arduino EKG Monitor: Built an EKG monitor with Arduino, delving into embedded systems, signal processing, and circuit design.
+
+🛠️ Tech Stack
+
+    Languages: C, C++, JavaScript, Python
+    Frameworks: React
+    Tools: Arduino, Git, Linux
+
+🚀 Future Goals
+
+I’m continuously learning and discovering new areas of software engineering. Whether it’s developing web applications, diving deeper into low-level systems, or exploring embedded hardware, I’m excited about where my journey will take me!
+📫 Connect with Me
+
+Feel free to check out my work on this GitHub and get in touch if you'd like to collaborate or chat!
+
+    📧 Email: jokovicnikola06@gmail.com
+    💼 LinkedIn:  [LinkedIn Profile](www.linkedin.com/in/nikola-jokovic-8b4a17177)
+    💬 Discord: nix0712
