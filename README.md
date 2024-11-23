@@ -26,3 +26,6 @@ Feel free to check out my work on this GitHub and get in touch if you'd like to 
     📧 Email: jokovicnikola06@gmail.com
     💼 LinkedIn:  [LinkedIn Profile](www.linkedin.com/in/nikola-jokovic-8b4a17177)
     💬 Discord: nix0712
+
+
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=Nix0712&theme=github-dark" alt="LeetCode Badges"/>
